@@ -1,0 +1,4 @@
+Hora de início: 2022-07-25T14:16:44.841091500
+Hora de término: 2022-07-25T14:16:46.303095400
+Tempo em milissegundos: 1462 ms
+Tempo de execução em segundos: 1,46 s
