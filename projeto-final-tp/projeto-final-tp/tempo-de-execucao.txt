@@ -1,4 +1,4 @@
-Início de processamento: 2022-07-25T18:05:08.384761700
-Final de processamento: 2022-07-25T18:05:08.526267800
-Tempo em milissegundos: 141 ms
-Tempo de execução em segundos: 0,14 s
+Início de processamento: 2022-07-26T09:04:26.013468200
+Final de processamento: 2022-07-26T09:04:26.247376600
+Tempo em milissegundos: 233 ms
+Tempo de execução em segundos: 0,23 s
